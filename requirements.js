@@ -22,11 +22,11 @@
 //to get list of books based on language completed
 
 // post
-//add new book
+//add new book completed
 
 //put
-//update book title
-//update or add new author
+//update book title completed
+//update or add new author for a book completed
 
 //delete
 //delete a book
@@ -42,10 +42,10 @@
 //to get list of authors based on books completed
 
 //post
-//add new author
+//add new author completed
 
 //put
-//update  author name
+//update  author name completed
 
 //delete
 //delete a author
@@ -59,10 +59,10 @@
 //to get list of publication based on book completed
 
 //post
-// add new publication
+// add new publication completed
 
 //put
-// update the publication name
+// update the publication name completed
 // update/add books to publication
 
 //delete

@@ -7,7 +7,7 @@ const books = [
     numPage: 250,
     author: [1,2],
     publications: [1],
-    category: ["tech", "Programming", "education", "thriller"]
+    category: ["tech", "Programming", "education", "thriller"],
      },
 ];
 
